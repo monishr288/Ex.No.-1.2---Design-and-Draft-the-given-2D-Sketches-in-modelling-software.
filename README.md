@@ -37,7 +37,7 @@
 
  ## OUTPUT:
 
-  ![image](https://github.com/monishr288/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147474049/d1bd65e0-bc7d-40c1-8c86-cd380a7f057b)
+  ![image](https://github.com/monishr288/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/147474049/6de9f460-3631-4724-ae5a-961ad47089f8)
 
  
  
